@@ -3,7 +3,7 @@
 
 void funk1(int num) {
     std::cout << "Hello, World! " << num << std::endl;
-
+    std::cout << "Hello, World! " << num << std::endl;
 }
 
 int main() {
